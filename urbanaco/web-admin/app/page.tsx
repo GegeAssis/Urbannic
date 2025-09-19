@@ -1,0 +1,1 @@
+export default function Home(){return(<div className='grid gap-4'><a className='btn' href='/shop/bikes'>Bikes</a><a className='btn' href='/shop/fleets'>Frotas</a><a className='btn' href='/shop/contracts'>Contratos</a><a className='btn' href='/restaurant/jobs'>Vagas</a><a className='btn' href='/restaurant/shifts'>Shifts</a></div>)}
